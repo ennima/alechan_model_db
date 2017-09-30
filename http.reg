@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\HTTP\Parameters]
+"EnableErrorLogging"=dword:00000001
+"ErrorLogFileTruncateSize"=dword:001e8480
+"ErrorLoggingDir"="\\systemroot\\System32\\Logfiles"
